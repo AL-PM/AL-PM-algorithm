@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-ll N; // 원소의 개수
+ll N;
 ll arr[1005];
 void InsertionSort(){
     for (int i=1;i<N;i++){

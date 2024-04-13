@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-ll N; // 원소의 개수
+ll N;
 ll arr[1005];
 void BubbleSort(){
     for (int i=N-1;i>0;i--){
