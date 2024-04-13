@@ -1,4 +1,4 @@
-# DFS
+# DFS (Depth First Search)
 ---
 ## 알고리즘 설명
 

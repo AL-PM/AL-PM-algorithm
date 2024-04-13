@@ -1,4 +1,4 @@
-# BFS
+# BFS (Breadth First Search)
 ---
 ## 알고리즘 설명
 
