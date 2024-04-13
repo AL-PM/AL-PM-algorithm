@@ -1,12 +1,9 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-struct Item{
-    ll weight, value;
-    Item() {}
-    Item(ll a, ll b): weight(a), value(b) {}
-};
-ll N, M, DP[105][1005];
+struct Item{ll weight, value;};
+ll N, M;
+ll DP[105][1005];
 vector<Item> arr;
 ll Knapsack(){
     ll ret=0;

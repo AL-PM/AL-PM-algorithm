@@ -1,15 +1,12 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-struct Edge{
-    ll x, y, dst;
-    Edge() {}
-    Edge(ll a, ll b, ll c): x(a), y(b), dst(c) {} 
-};
+struct Edge{ll x, y, dst;};
 bool operator<(Edge x, Edge y){
     return x.dst>y.dst;
 }
-ll N, M, arr[1005];
+ll N, M;
+ll arr[1005];
 priority_queue<Edge> pq;
 ll Find(ll x){
     if (x==arr[x])

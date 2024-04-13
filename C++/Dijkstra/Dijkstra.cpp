@@ -2,15 +2,11 @@
 #define ll long long
 #define INF (1e9+7)
 using namespace std;
-struct Edge{
-    ll idx, dst;
-    Edge() {}
-    Edge(ll a, ll b): idx(a), dst(b) {} 
-};
+struct Edge{ll idx, dst;};
 bool operator<(Edge x, Edge y){
     return x.dst>y.dst;
 }
-ll N, M, R; // 정점, 간선, 시작점
+ll N, M, R;
 ll visited[1005];
 vector<Edge> arr[1005];
 void Dijkstra(ll st){
@@ -43,7 +39,11 @@ int main(){
     }
     fill(&visited[0],&visited[N+1],INF);
     Dijkstra(R);
-    for (int i=1;i<=N;i++)
-        cout << visited[i] << " ";
+    for (int i=1;i<=N;i++){
+        if (visited[i]!=INF)
+            cout << visited[i] << " ";
+        else
+            cout << "-1 ";
+    }
     return 0;
 }

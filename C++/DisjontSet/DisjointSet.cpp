@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-ll N, M, arr[1005];
+ll N, M;
+ll arr[1005];
 ll Find(ll x){
     if (x==arr[x])
         return x;

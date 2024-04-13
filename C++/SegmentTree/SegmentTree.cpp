@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-ll N, M, arr[100005];
+ll N, M;
+ll arr[100005];
 vector<ll> SegTree;
 ll Query(ll n, ll l, ll r, ll st, ll ed){
     if (l>ed || r<st)

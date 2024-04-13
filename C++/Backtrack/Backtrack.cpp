@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-ll N, M, visited[10];
+ll N, M;
+ll visited[10];
 vector<ll> arr;
 void Backtrack(ll depth){
     if (depth==M){
