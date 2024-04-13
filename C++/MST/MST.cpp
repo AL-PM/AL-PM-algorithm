@@ -35,7 +35,7 @@ int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
     cin >> N >> M;
-    iota(&arr[0],&arr[10004],0);
+    iota(&arr[0],&arr[1004],0);
     for (int i=0;i<M;i++){
         ll a, b, c;
         cin >> a >> b >> c;

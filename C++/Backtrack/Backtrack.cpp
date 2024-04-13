@@ -1,11 +1,10 @@
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
-ll N;
-ll visited[1005];
+ll N, M, visited[10];
 vector<ll> arr;
 void Backtrack(ll depth){
-    if (depth==N){
+    if (depth==M){
         for (auto x:arr)
             cout << x << " ";
         cout << "\n";
@@ -24,7 +23,7 @@ void Backtrack(ll depth){
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
-    cin >> N;
+    cin >> N >> M;
     Backtrack(0);
     return 0;
 }
