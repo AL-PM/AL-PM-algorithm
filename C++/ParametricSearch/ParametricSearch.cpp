@@ -3,7 +3,7 @@
 using namespace std;
 ll N, M;
 ll arr[1005];
-bool f(int x){
+bool chk(int x){
     ll cnt=0;
     for (int i=0;i<N;i++)
         cnt+=arr[i]/x;
@@ -15,7 +15,7 @@ ll ParametricSearch(){
         hi=max(hi,arr[i]+1);
     while (lo+1<hi){
         ll mid=(lo+hi)/2;
-        if (f(mid))
+        if (chk(mid))
             lo=mid;
         else
             hi=mid;
