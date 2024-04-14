@@ -1,4 +1,4 @@
-# SelctionSort
+# SelectionSort
 ---
 ## 알고리즘 설명
 
