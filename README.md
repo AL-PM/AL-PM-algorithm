@@ -2,95 +2,95 @@
 
 ---
 ## Backtrack
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Backtrack/Backtrack.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Backtrack/Backtrack.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Backtrack.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Backtrack.cpp)
 
 ---
 ## BellmanFord
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BellmanFord/BellmanFord.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BellmanFord/BellmanFord.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BellmanFord.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BellmanFord.cpp)
 
 ---
 ## BFS
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BFS/BFS.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BFS/BFS.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BFS.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BFS.cpp)
 
 ---
 ## BinarySearch
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BinarySearch/BinarySearch.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BinarySearch/BinarySearch.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BinarySearch.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BinarySearch.cpp)
 
 ---
 ## BubbleSort
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BubbleSort/BubbleSort.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BubbleSort/BubbleSort.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BubbleSort.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BubbleSort.cpp)
 
 ----
 ## ConvexHull
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/ConvexHull/ConvexHull.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/ConvexHull/ConvexHull.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/ConvexHull.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/ConvexHull.cpp)
 
 ----
 ## DFS
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DFS/DFS.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DFS/DFS.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/mainMarkdown/DFS.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DFS.cpp)
 
 ----
 ## Dijkstra
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Dijkstra/Dijkstra.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Dijkstra/Dijkstra.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Dijkstra.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Dijkstra.cpp)
 
 ----
 ## DisjointSet
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DisjointSet/DisjointSet.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DisjointSet/DisjointSet.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/DisjointSet.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DisjointSet.cpp)
 
 ----
 ## Eratosthenes
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Eratosthenes/Eratosthenes.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Eratosthenes/Eratosthenes.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Eratosthenes.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Eratosthenes.cpp)
 
 ----
 ## InsertionSort
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/InsertionSort/InsertionSort.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/InsertionSort/InsertionSort.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/InsertionSort.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/InsertionSort.cpp)
 
 ----
 ## Knapsack
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Knapsack/Knapsack.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Knapsack/Knapsack.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Knapsack.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Knapsack.cpp)
 
 ----
 ## LineIntersection
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/LineIntersection/LineIntersection.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/LineIntersection/LineIntersection.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/LineIntersection.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/LineIntersection.cpp)
 
 ----
 ## MST
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/MST/MST.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/MST/MST.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/MST.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/MST.cpp)
 
 ----
 ## ParametricSearch
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/ParametricSearch/ParametricSearch.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/ParametricSearch/ParametricSearch.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/ParametricSearch.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/ParametricSearch.cpp)
 
 ----
 ## PrefixSum
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/PrefixSum/PrefixSum.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/PrefixSum/PrefixSum.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/PrefixSum.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/PrefixSum.cpp)
 
 ----
 ## SegmentTree
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/SegmentTree/SegmentTree.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/SegmentTree/SegmentTree.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/SegmentTree.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/SegmentTree.cpp)
 
 ----
 ## SelectionSort
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/SelectionSort/SelectionSort.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/SelectionSort/SelectionSort.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/SelectionSort.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/SelectionSort.cpp)
 
 ----
 ## TwoPointer
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/TwoPointer/TwoPointer.md)
-### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/TwoPointer/TwoPointer.cpp)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/TwoPointer.md)
+### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/TwoPointer.cpp)
