@@ -32,7 +32,7 @@
 
 ----
 ## DFS
-### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/mainMarkdown/DFS.md)
+### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/DFS.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DFS.cpp)
 
 ----
