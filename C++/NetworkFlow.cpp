@@ -51,6 +51,6 @@ int main(){
         arr[a].push_back(b);
         arr[b].push_back(a);
     }
-    cout << EdmondsKarp(M, K);
+    cout << EdmondsKarp(S, E);
     return 0;
 }
