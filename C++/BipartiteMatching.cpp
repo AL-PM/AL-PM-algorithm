@@ -32,7 +32,7 @@ int main(){
         cin >> a;
         for (int j=0;j<a;j++){
             cin >> b;
-            v[i].push_back(b-1);
+            v[i].push_back(b);
         }
     }
     cout << BipartiteMatching();
