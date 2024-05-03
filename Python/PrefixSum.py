@@ -1,8 +1,8 @@
 INF=10**9+7
 
 def PrefixSum():
-    for i in range(1, N):
-        sum[i]=arr[i-1]+sum[i-1]
+    for i in range(0, N):
+        sum[i+1]=arr[i]+sum[i]
 
 N, M=map(int, input().split())
 arr=list(map(int, input().split()))

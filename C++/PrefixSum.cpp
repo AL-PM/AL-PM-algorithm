@@ -5,8 +5,8 @@ using namespace std;
 ll N, M, ans=-INF;
 ll arr[1005], sum[1005];
 void PrefixSum(){
-    for (int i=1;i<=N;i++)
-        sum[i]=arr[i-1]+sum[i-1];
+    for (int i=0;i<N;i++)
+        sum[i+1]=arr[i]+sum[i];
 }
 int main(){
     ios::sync_with_stdio(0);
