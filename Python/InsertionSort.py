@@ -8,6 +8,6 @@ def InsertionSort(arr):
         arr[now+1]=tmp
 
 N=int(input())
-arr=list(map(int, input().split()))
+arr=list(map(int,input().split()))
 InsertionSort(arr)
 print(*arr)

@@ -8,6 +8,6 @@ def SelectionSort(arr):
             arr[i],arr[mn]=arr[mn],arr[i]
 
 N=int(input())
-arr=list(map(int, input().split()))
+arr=list(map(int,input().split()))
 SelectionSort(arr)
 print(*arr)

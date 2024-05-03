@@ -6,11 +6,11 @@ def Backtrack(depth):
         if not visited[i]:
             visited[i]=1
             arr.append(i)
-            backtrack(depth+1)
+            Backtrack(depth+1)
             visited[i]=0
             arr.pop()
 
-N, M=map(int, input().split())
+N, M=map(int,input().split())
 visited=[0]*(N+1)
 arr=[]
 Backtrack(0)

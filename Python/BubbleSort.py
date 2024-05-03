@@ -5,6 +5,6 @@ def BubbleSort(arr):
                 arr[j],arr[j+1]=arr[j+1],arr[j]
 
 N=int(input())
-arr=list(map(int, input().split()))
+arr=list(map(int,input().split()))
 BubbleSort(arr)
 print(*arr)
