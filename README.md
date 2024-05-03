@@ -4,7 +4,7 @@
 ## Backtrack
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Backtrack.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Backtrack.cpp)
-
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/Backtrack.py)
 ---
 ## BellmanFord
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BellmanFord.md)
@@ -91,6 +91,7 @@
 ## PrefixSum
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/PrefixSum.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/PrefixSum.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/PrefixSum.py)
 
 ----
 ## SegmentTree

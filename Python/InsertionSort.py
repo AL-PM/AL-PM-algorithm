@@ -7,7 +7,7 @@ def InsertionSort(arr):
             now-=1
         arr[now+1]=tmp
 
-N = int(input())
-arr = list(map(int, input().split()))
+N=int(input())
+arr=list(map(int, input().split()))
 InsertionSort(arr)
 print(*arr)

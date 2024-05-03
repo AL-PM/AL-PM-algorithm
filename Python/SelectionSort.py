@@ -7,7 +7,7 @@ def SelectionSort(arr):
         if i!=mn:
             arr[i],arr[mn]=arr[mn],arr[i]
 
-N = int(input())
-arr = list(map(int, input().split()))
+N=int(input())
+arr=list(map(int, input().split()))
 SelectionSort(arr)
 print(*arr)
