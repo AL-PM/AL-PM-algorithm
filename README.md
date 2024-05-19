@@ -15,11 +15,13 @@
 ## BFS
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BFS.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BFS.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/BFS.py)
 
 ---
 ## BinarySearch
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BinarySearch.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BinarySearch.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/BinarySearch.py)
 
 ---
 ## BipartiteMatching
@@ -41,6 +43,7 @@
 ## DFS
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/DFS.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DFS.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/DFS.py)
 
 ----
 ## Dijkstra
@@ -51,6 +54,7 @@
 ## DisjointSet
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/DisjointSet.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DisjointSet.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/DisjointSet.py)
 
 ----
 ## Eratosthenes
