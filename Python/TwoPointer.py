@@ -1,4 +1,4 @@
-INF = 10**9+7
+INF=10**9+7
 
 def TwoPointer():
     L,R=0,1
