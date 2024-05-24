@@ -49,6 +49,7 @@
 ## Dijkstra
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Dijkstra.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Dijkstra.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/Dijkstra.py)
 
 ----
 ## DisjointSet
