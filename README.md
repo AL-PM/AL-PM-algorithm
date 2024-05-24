@@ -63,6 +63,7 @@
 ## Eratosthenes
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Eratosthenes.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Eratosthenes.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/Eratosthenes.py)
 
 ----
 ## InsertionSort
