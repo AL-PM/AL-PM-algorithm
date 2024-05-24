@@ -3,15 +3,15 @@ import heapq
 INF=10**9+7
 
 class Edge:
-    def __init__(self, idx, dst):
+    def __init__(self,idx,dst):
         self.idx=idx
         self.dst=dst
-    def __lt__(self, other):
+    def __lt__(self,other):
         return self.dst<other.dst
 
 def Dijkstra(st):
     pq=[]
-    heapq.heappush(pq, Edge(st,0))
+    heapq.heappush(pq,Edge(st,0))
     visited[st]=0
     while pq:
         top=heapq.heappop(pq)
@@ -24,16 +24,16 @@ def Dijkstra(st):
                 visited[dx]=curr+next
                 heapq.heappush(pq,Edge(dx,curr+next))
 
-N, M, R=map(int, input().split())
+N,M,R=map(int,input().split())
 arr=[[] for _ in range(N+1)]
 visited=[INF]*(N+1)
 for _ in range(M):
-    a, b, c=map(int, input().split())
+    a,b,c=map(int,input().split())
     arr[a].append(Edge(b,c))
     arr[b].append(Edge(a,c))
 Dijkstra(R)
-for i in range(1, N+1):
+for i in range(1,N+1):
     if visited[i]!=INF:
-        print(visited[i], end=" ")
+        print(visited[i],end=" ")
     else:
-        print(-1, end=" ")
+        print(-1,end=" ")

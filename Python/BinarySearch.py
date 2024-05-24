@@ -10,8 +10,8 @@ def BinarySearch(x):
             return 1
     return 0
 
-N, M=map(int, input().split())
-arr=list(map(int, input().split()))
+N,M=map(int,input().split())
+arr=list(map(int,input().split()))
 arr.sort()
-for a in list(map(int, input().split())):
+for a in list(map(int,input().split())):
     print(BinarySearch(a))
