@@ -112,6 +112,7 @@
 ## SegmentTree
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/SegmentTree.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/SegmentTree.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/SegmentTree.py)
 
 ----
 ## SelectionSort
@@ -123,6 +124,7 @@
 ## TopologySort
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/TopologySort.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/TopologySort.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/TopologySort.py)
 
 ----
 ## TwoPointer
