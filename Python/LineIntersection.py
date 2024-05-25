@@ -28,9 +28,11 @@ def LineIntersection(a,b,c,d):
         return not (c>b or a>d)
     return ab<=0 and cd<=0
 
-input=sys.stdin.read
-data=list(map(int,input().split()))
-arr=[Dot(data[i],data[i+1]) for i in range(0,len(data),2)]
+arr=[]
+for _ in range(2):
+    a,b,c,d=map(int, input().split())
+    arr.append(Dot(a,b))
+    arr.append(Dot(c,d))
 if LineIntersection(arr[0],arr[1],arr[2],arr[3]):
     print(1)
 else:
