@@ -88,6 +88,7 @@
 ## MST
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/MST.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/MST.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/MST.py)
 
 ----
 ## NetworkFlow
