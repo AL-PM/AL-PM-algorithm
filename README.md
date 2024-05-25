@@ -100,6 +100,7 @@
 ## ParametricSearch
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/ParametricSearch.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/ParametricSearch.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/ParametricSearch.py)
 
 ----
 ## PrefixSum
