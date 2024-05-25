@@ -82,6 +82,7 @@
 ## LineIntersection
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/LineIntersection.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/LineIntersection.cpp)
+### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/LineIntersection.py)
 
 ----
 ## MST
