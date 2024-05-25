@@ -17,12 +17,12 @@ def TopologySort():
                 q.append(dx)
     print(*ans)
 
-N,M=map(int, input().split())
+N,M=map(int,input().split())
 indegree=[0]*(N+1)
 arr=[[] for _ in range(N+1)]
 ans=[]
 for _ in range(M):
-    inputs=list(map(int, input().split()))
+    inputs=list(map(int,input().split()))
     for i in range(1,len(inputs)-1):
         a,b=inputs[i],inputs[i+1]
         arr[a].append(b)
