@@ -34,6 +34,6 @@ for _ in range(M):
 Dijkstra(R)
 for i in range(1,N+1):
     if visited[i]!=INF:
-        print(visited[i],end=" ")
+        print(visited[i])
     else:
-        print(-1,end=" ")
+        print(-1)

@@ -41,9 +41,9 @@ int main(){
     Dijkstra(R);
     for (int i=1;i<=N;i++){
         if (visited[i]!=INF)
-            cout << visited[i] << " ";
+            cout << visited[i] << "\n";
         else
-            cout << "-1 ";
+            cout << "-1\n";
     }
     return 0;
 }
