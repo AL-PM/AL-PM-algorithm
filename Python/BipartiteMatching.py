@@ -23,6 +23,6 @@ match=[-1]*1005
 visited=[0]*1005
 v=[[] for _ in range(1005)]
 for i in range(N):
-    temp=list(map(int,input().split()))[1:]
-    v[i].extend(temp)
+    tmp=list(map(int,input().split()))[1:]
+    v[i].extend(tmp)
 print(BipartiteMatching())
