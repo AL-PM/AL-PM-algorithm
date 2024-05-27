@@ -35,7 +35,7 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BubbleSort.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BubbleSort.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/BubbleSort.py)
-### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/BubbleSort.Java)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/BubbleSort.java)
 
 ----
 ## ConvexHull
@@ -72,6 +72,7 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/InsertionSort.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/InsertionSort.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/InsertionSort.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/InsertionSort.java)
 
 ----
 ## Knapsack
