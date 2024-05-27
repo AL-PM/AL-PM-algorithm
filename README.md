@@ -136,3 +136,4 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/TwoPointer.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/TwoPointer.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/TwoPointer.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/TwoPointer.java)
