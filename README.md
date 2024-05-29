@@ -19,6 +19,7 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BFS.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BFS.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/BFS.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/BFS.java)
 
 ---
 ## BinarySearch

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class InsertionSort{
     static int N;
@@ -7,7 +7,7 @@ public class InsertionSort{
     public static void InsertionSort(){
         for (int i=1;i<N;i++){
             int tmp=arr[i], now;
-            for (now=i-1;now>=0; now--){
+            for (now=i-1;now>=0;now--){
                 if (arr[now]<tmp)
                     break;
                 arr[now+1]=arr[now];

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class PrefixSum{
     static final int INF=1000000007;
