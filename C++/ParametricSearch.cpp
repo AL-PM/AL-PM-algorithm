@@ -10,7 +10,7 @@ bool chk(int x){
     return cnt>=M;
 }
 ll ParametricSearch(){
-    ll lo=0, hi;
+    ll lo=0, hi=-1;
     for (int i=0;i<N;i++)
         hi=max(hi,arr[i]+1);
     while (lo+1<hi){
