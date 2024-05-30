@@ -1,17 +1,18 @@
 def BinarySearch(x):
-    lo,hi=0,N-1
-    while lo<=hi:
+    lo,hi=0,N
+    while lo+1<hi:
         mid=(lo+hi)//2
-        if arr[mid]<x:
-            lo=mid+1
-        elif arr[mid]>x:
-            hi=mid-1
+        if arr[mid]<=x:
+            lo=mid
         else:
-            return 1
-    return 0
+            hi=mid
+    return arr[lo]==x
 
 N,M=map(int,input().split())
 arr=list(map(int,input().split()))
 arr.sort()
 for a in list(map(int,input().split())):
-    print(BinarySearch(a))
+    if BinarySearch(a):
+        print("1")
+    else:
+        print("0")

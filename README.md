@@ -26,6 +26,7 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/BinarySearch.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/BinarySearch.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/BinarySearch.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/BinarySearch.java)
 
 ---
 ## BipartiteMatching
