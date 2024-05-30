@@ -17,8 +17,7 @@ void TopologySort(){
         ll x=q.front();
         q.pop();
         ans.push_back(x);
-        for (int j=0;j<arr[x].size();j++){
-            ll dx=arr[x][j];
+        for (auto dx:arr[x]){
             if (--indegree[dx]==0)
                 q.push(dx);
         }

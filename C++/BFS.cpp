@@ -11,8 +11,7 @@ void BFS(ll st){
     while (!q.empty()){
         ll x=q.front();
         q.pop();
-        for (int i=0;i<arr[x].size();i++){
-            ll dx=arr[x][i];
+        for (auto dx:arr[x]){
             if (visited[dx]==-1){
                 visited[dx]=visited[x]+1;
                 q.push(dx);

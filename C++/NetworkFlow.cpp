@@ -15,8 +15,7 @@ ll EdmondsKarp(ll st, ll ed){
         while (!q.empty()){
             ll x=q.front();
             q.pop();
-            for (int i=0;i<arr[x].size();i++){
-                ll dx=arr[x][i];
+            for (auto dx:arr[x]){
                 if (visited[dx]==-1 && capacity[x][dx]>flow[x][dx]){
                     q.push(dx);
                     visited[dx]=x;

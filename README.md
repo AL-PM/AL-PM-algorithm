@@ -51,6 +51,7 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/DFS.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DFS.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/DFS.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/DFS.java)
 
 ----
 ## Dijkstra

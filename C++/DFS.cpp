@@ -6,8 +6,7 @@ ll visited[1005];
 vector<ll> arr[1005];
 void DFS(ll x, ll depth){
     visited[x]=depth;
-    for (int i=0;i<arr[x].size();i++){
-        ll dx=arr[x][i];
+    for (auto dx:arr[x]){
         if (visited[dx]==-1)
             DFS(dx, depth+1);
     }
