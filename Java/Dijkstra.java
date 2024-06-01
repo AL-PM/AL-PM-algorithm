@@ -25,13 +25,11 @@ public class Dijkstra{
         visited[st]=0;
         while (!pq.isEmpty()){
             Edge edge=pq.poll();
-            int x=edge.idx;
-            int curr=edge.dst;
+            int x=edge.idx, curr=edge.dst;
             if (curr>visited[x])
                 continue;
             for (Edge e:arr[x]){
-                int dx=e.idx;
-                int next=e.dst;
+                int dx=e.idx, next=e.dst;
                 if (visited[dx]>curr+next){
                     visited[dx]=curr+next;
                     pq.add(new Edge(dx,curr+next));

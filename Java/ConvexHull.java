@@ -31,12 +31,11 @@ public class ConvexHull{
                 return cmp(a,b) ? -1 : 1;
             }
         });
-
         for (Dot dot:arr){
-            while (CW.size()>=2 && CCW(CW.toArray(new Dot[0])[1], CW.toArray(new Dot[0])[0], dot)>=0)
+            while (CW.size()>=2 && CCW(CW.toArray(new Dot[0])[1],CW.toArray(new Dot[0])[0],dot)>=0)
                 CW.pop();
             CW.push(dot);
-            while (ACW.size()>=2 && CCW(ACW.toArray(new Dot[0])[1], ACW.toArray(new Dot[0])[0], dot)<=0)
+            while (ACW.size()>=2 && CCW(ACW.toArray(new Dot[0])[1],ACW.toArray(new Dot[0])[0],dot)<=0)
                 ACW.pop();
             ACW.push(dot);
         }
@@ -46,7 +45,7 @@ public class ConvexHull{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         N=sc.nextInt();
-        for (int i=0; i<N; i++){
+        for (int i=0;i<N;i++){
             int a=sc.nextInt();
             int b=sc.nextInt();
             arr.add(new Dot(a,b));

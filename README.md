@@ -89,6 +89,7 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Knapsack.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Knapsack.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/Knapsack.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/Knapsack.java)
 
 ----
 ## LineIntersection
