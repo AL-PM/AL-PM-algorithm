@@ -34,7 +34,7 @@ public class BFS{
             arr[a].add(b);
             arr[b].add(a);
         }
-        Arrays.fill(visited,0,N+1,-1);
+        Arrays.fill(visited,-1);
         BFS(R);
         for (int i=1;i<=N;i++)
             System.out.println(visited[i]);

@@ -44,7 +44,7 @@ public class BellmanFord{
         Scanner sc=new Scanner(System.in);
         N=sc.nextInt();
         M=sc.nextInt();
-        Arrays.fill(visited,0,N+1, INF);
+        Arrays.fill(visited,INF);
         for (int i=0;i<M;i++){
             int a=sc.nextInt();
             int b=sc.nextInt();
