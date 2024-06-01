@@ -14,13 +14,13 @@ ll CCW(Dot a, Dot b, Dot c){
     return (b.x-a.x)*(c.y-a.y)-(b.y-a.y)*(c.x-a.x);
 }
 ll ConvexHull(){
-    for (int i=0;i<arr.size();i++){
-        while (CW.size()>=2 && CCW(CW[1],CW[0],arr[i])>=0)
+    for (auto dot:arr){
+        while (CW.size()>=2 && CCW(CW[1],CW[0],dot)>=0)
             CW.pop_front();
-        CW.push_front(arr[i]);
-        while (ACW.size()>=2 && CCW(ACW[1],ACW[0],arr[i])<=0)
+        CW.push_front(dot);
+        while (ACW.size()>=2 && CCW(ACW[1],ACW[0],dot)<=0)
             ACW.pop_front();
-        ACW.push_front(arr[i]);
+        ACW.push_front(dot);
     }
     return (CW.size()+ACW.size()-2);
 }

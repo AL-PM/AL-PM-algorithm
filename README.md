@@ -61,12 +61,14 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/Dijkstra.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/Dijkstra.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/Dijkstra.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/Dijkstra.java)
 
 ----
 ## DisjointSet
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/DisjointSet.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/DisjointSet.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/DisjointSet.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/DisjointSet.java)
 
 ----
 ## Eratosthenes
