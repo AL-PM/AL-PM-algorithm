@@ -103,12 +103,14 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/MST.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/MST.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/MST.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/MST.java)
 
 ----
 ## NetworkFlow
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/NetworkFlow.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/NetworkFlow.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/NetworkFlow.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/NetworkFlow.java)
 
 ----
 ## ParametricSearch
