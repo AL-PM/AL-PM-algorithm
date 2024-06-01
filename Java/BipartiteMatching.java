@@ -1,7 +1,7 @@
 import java.util.*;
 @SuppressWarnings("unchecked")
 
-public class Main {
+public class BipartiteMatching{
     static int N, M;
     static int[] match=new int[1005];
     static int[] visited=new int[1005];

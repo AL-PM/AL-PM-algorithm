@@ -1,7 +1,7 @@
 import java.util.*;
 @SuppressWarnings("unchecked")
 
-class Edge implements Comparable<Edge> {
+class Edge implements Comparable<Edge>{
     int idx, dst;
     Edge(int idx, int dst){
         this.idx=idx;

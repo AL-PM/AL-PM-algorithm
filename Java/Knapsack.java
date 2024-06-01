@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Item {
+class Item{
     int weight, value;
     Item(int weight, int value){
         this.weight=weight;

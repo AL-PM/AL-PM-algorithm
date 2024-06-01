@@ -143,6 +143,7 @@
 ### [Markdown](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Markdown/TopologySort.md)
 ### [C++](https://github.com/AL-PM/AL-PM-algorithm/blob/main/C%2B%2B/TopologySort.cpp)
 ### [Python](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Python/TopologySort.py)
+### [Java](https://github.com/AL-PM/AL-PM-algorithm/blob/main/Java/TopologySort.java)
 
 ----
 ## TwoPointer

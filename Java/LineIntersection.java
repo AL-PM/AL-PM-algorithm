@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Dot implements Comparable<Dot> {
+class Dot implements Comparable<Dot>{
     int x, y;
     Dot(int x, int y){
         this.x=x;

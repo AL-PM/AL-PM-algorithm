@@ -1,7 +1,7 @@
 import java.util.*;
 @SuppressWarnings("unchecked")
 
-public class Main {
+public class TopologySort{
     static int N, M;
     static int[] indegree=new int[1005];
     static List<Integer>[] arr=new ArrayList[1005];

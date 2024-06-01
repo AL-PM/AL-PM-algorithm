@@ -18,7 +18,7 @@ public class DisjointSet{
         Scanner sc=new Scanner(System.in);
         N=sc.nextInt();
         M=sc.nextInt();
-        for (int i=0;i<=1004;i++)
+        for (int i=0;i<=N;i++)
             arr[i]=i;
         for (int i=0;i<M;i++){
             int x=sc.nextInt();
