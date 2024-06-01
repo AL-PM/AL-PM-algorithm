@@ -2,7 +2,6 @@ import java.util.*;
 
 class Edge{
     int st, ed, dst;
-
     Edge(int st, int ed, int dst){
         this.st=st;
         this.ed=ed;
